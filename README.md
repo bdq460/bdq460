@@ -11,7 +11,7 @@
 
 <p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdq460&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bdq460&hide_border=true&card_width=338&theme=transparent" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdq460&hide_border=true&card_width=338&theme=transparent" /> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdq460&theme=transparent" />
 </p>
 
