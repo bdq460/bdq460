@@ -2,7 +2,7 @@
 
 - :raising_hand: I’m Klein
 - 🇨🇳 I’m from China
-- :moneybag: I'm looking for a job as software engineer
+- :moneybag: I'm looking for a job as a software engineer
   
 ### Some Statistics :eyeglasses:
 
@@ -15,6 +15,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdq460&theme=transparent" />
 </p>
 
+### Some Repositories stars ✨ 
+<img style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://api.star-history.com/svg?repos=bdq460/java-knowledge-mind-map,bdq460/shop_pilot,bdq460/nicefood&type=Date"/>
 
 <!--
 **bdq460/bdq460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
